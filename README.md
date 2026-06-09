@@ -1,44 +1,102 @@
+<div align="center">
+
 # Jinwon Jung
 
-공간정보 AI 분야를 목표로 공부하고 있는 대학생입니다.
+**GeoAI · Computer Vision · Spatial Data Analysis**
 
-현재는 **Python 기반 데이터 분석**, **YOLO 객체탐지**, **공간데이터 분석** 프로젝트를 중심으로 공부하고 있습니다.
+Undergraduate student interested in building AI projects with spatial data, imagery, and real-world movement data.
 
-## 관심 분야
+[![GitHub](https://img.shields.io/badge/GitHub-Evann9-181717?style=flat&logo=github)](https://github.com/Evann9)
+[![Email](https://img.shields.io/badge/Email-bluefrogg9%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bluefrogg9@gmail.com)
 
-- GeoAI / Spatial AI
-- Computer Vision / Object Detection
+</div>
+
+---
+
+## About Me
+
+I am studying toward the **GeoAI / Spatial AI** field.
+
+My current focus is:
+
+- Python-based data analysis
+- Computer Vision and YOLO object detection
+- Spatial data analysis with GIS tools
+- AIS / mobility data analysis
+- Remote sensing and satellite imagery basics
+
+---
+
+## Tech Stack
+
+### AI / Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-00A86B?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+### Geospatial / Tools
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-Spatial%20Data-139C5A?style=flat)
+![Folium](https://img.shields.io/badge/Folium-Map%20Visualization-77B829?style=flat)
+![SQL](https://img.shields.io/badge/SQL-Database-336791?style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Projects
+
+### [TankSimulation-yolo](https://github.com/Evann9/TankSimulation-yolo)
+YOLO-based object detection project for a tank simulator environment.
+
+- Flask API server for detection results
+- YOLO inference pipeline
+- Simulator image recognition utility
+
+### [shipml_tp](https://github.com/Evann9/shipml_tp)
+Machine learning project using ship movement / AIS-style data.
+
+- Data preprocessing
+- Feature engineering
+- Model comparison and evaluation
+
+### [seoul-michelin-project](https://github.com/Evann9/seoul-michelin-project)
+Data analysis project using Seoul location-related data.
+
+- Data cleaning
+- Exploratory analysis
+- Location-based insights
+
+---
+
+## Currently Learning
+
+- Deep Learning
+- Computer Vision
 - Spatial Data Analysis
-- AIS / Mobility Data
 - Remote Sensing
+- GIS-based AI project design
 
-## 기술 스택
+---
 
-- Python, SQL
-- PyTorch, OpenCV, YOLO
-- Pandas, NumPy, Scikit-learn
-- QGIS, GeoPandas, Folium
-- Flask, Git, GitHub
+## Direction
 
-## 프로젝트
+I want to build practical AI projects that connect:
 
-- [TankSimulation-yolo](https://github.com/Evann9/TankSimulation-yolo)  
-  전차 시뮬레이터 환경에서 YOLO 기반 객체탐지를 수행하는 프로젝트
+```text
+Spatial Data + Computer Vision + Decision Support
+```
 
-- [shipml_tp](https://github.com/Evann9/shipml_tp)  
-  선박 이동 데이터 기반 머신러닝 프로젝트
+---
 
-- [seoul-michelin-project](https://github.com/Evann9/seoul-michelin-project)  
-  서울 지역 데이터 분석 프로젝트
+<div align="center">
 
-## 현재 공부 중
+![Evann9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evann9&show_icons=true&hide_title=true)
 
-- 딥러닝
-- 컴퓨터 비전
-- 공간데이터 분석
-- 원격탐사 / 위성영상 분석
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evann9&layout=compact)
 
-## 연락처
-
-- GitHub: [@Evann9](https://github.com/Evann9)
-- Email: bluefrogg9@gmail.com
+</div>
