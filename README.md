@@ -64,13 +64,6 @@ Machine learning project using ship movement / AIS-style data.
 - Feature engineering
 - Model comparison and evaluation
 
-### [seoul-michelin-project](https://github.com/Evann9/seoul-michelin-project)
-Data analysis project using Seoul location-related data.
-
-- Data cleaning
-- Exploratory analysis
-- Location-based insights
-
 ---
 
 ## Currently Learning
