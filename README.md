@@ -90,13 +90,3 @@ I want to build practical AI projects that connect:
 ```text
 Spatial Data + Computer Vision + Decision Support
 ```
-
----
-
-<div align="center">
-
-![Evann9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evann9&show_icons=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evann9&layout=compact)
-
-</div>
