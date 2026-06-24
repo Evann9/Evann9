@@ -50,7 +50,7 @@ My current focus is:
 
 ## Projects
 
-### [TankSimulation-yolo](https://github.com/Evann9/TankSimulation-yolo)
+### [TankSimulation](https://github.com/Evann9/TankSimulation)
 YOLO-based object detection project for a tank simulator environment.
 
 - Flask API server for detection results
